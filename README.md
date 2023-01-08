@@ -2,4 +2,4 @@
  Printhead for MGN12
 
 Choose your own setup.
-BUREAU_(cooling fan selection)_(extruder selection)_(hotend selection)
+BUREAU(cooling fan selection)(extruder selection)(hotend selection)
